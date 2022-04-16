@@ -1,0 +1,2 @@
+# roformer_pytorch
+基于bert4torch框架，roformer/roformer_v2的pytorch简洁实现
